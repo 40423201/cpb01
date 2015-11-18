@@ -13,14 +13,14 @@
 <v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-<v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
+<v t="amd.20150915153206.1"><vh>專案說明</vh>
 <v t="amd.20150919102209.1" a="E"><vh>使用工具</vh>
 <v t="amd.20150919112415.1"><vh>影片檔案</vh></v>
 </v>
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -36,11 +36,29 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
-</v>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh></v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20151118181422.1"><vh>@edit 40423201_cp_w1_p.html</vh></v>
+<v t="leo.20151118181427.1"><vh>@edit 40423201_cp_w2_p.html</vh></v>
+<v t="leo.20151118181432.1"><vh>@edit 40423201_cp_w3_p.html</vh></v>
+<v t="leo.20151118181437.1"><vh>@edit 40423201_cp_w4_p.html</vh></v>
+<v t="leo.20151118181442.1"><vh>@edit 40423201_cp_w5_p.html</vh></v>
+<v t="leo.20151118181448.1"><vh>@edit 40423201_cp_w6_p.html</vh></v>
+<v t="leo.20151118181454.1"><vh>@edit 40423201_cp_w7_p.html</vh></v>
+<v t="leo.20151118181501.1"><vh>@edit 40423201_cp_w8_p.html</vh></v>
+<v t="leo.20151118181508.1"><vh>@edit 40423201_cp_w9_p.html</vh></v>
+<v t="leo.20151118181541.1" a="E"><vh>@path content</vh>
+<v t="leo.20151118181541.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151118181541.3"><vh>@edit 40423201_cp_w1.md</vh></v>
+<v t="leo.20151118181541.4"><vh>@edit 40423201_cp_w2.md</vh></v>
+<v t="leo.20151118181541.5"><vh>@edit 40423201_cp_w3.md</vh></v>
+<v t="leo.20151118181541.6"><vh>@edit 40423201_cp_w4.md</vh></v>
+<v t="leo.20151118181541.7"><vh>@edit 40423201_cp_w5.md</vh></v>
+<v t="leo.20151118181541.9"><vh>@edit 40423201_cp_w6.md</vh></v>
+<v t="leo.20151118181659.1"><vh>@edit 40423201_cp_w7.md</vh></v>
+<v t="leo.20151118181541.10"><vh>@edit 40423201_cp_w8.md</vh></v>
+<v t="leo.20151118181541.11"><vh>@edit 40423201_cp_w9.md</vh></v>
+</v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
@@ -2237,5 +2255,7 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151118181541.1"></t>
+<t tx="leo.20151118181541.2"></t>
 </tnodes>
 </leo_file>
