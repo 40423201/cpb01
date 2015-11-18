@@ -47,6 +47,22 @@
 <v t="leo.20151118181454.1"><vh>@edit 40423201_cp_w7_p.html</vh></v>
 <v t="leo.20151118181501.1"><vh>@edit 40423201_cp_w8_p.html</vh></v>
 <v t="leo.20151118181508.1"><vh>@edit 40423201_cp_w9_p.html</vh></v>
+<v t="leo.20151118184158.1" a="E"><vh>@path pelican</vh>
+<v t="leo.20151118184158.2"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151118184158.3"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151118184246.1"><vh>@path content</vh>
+<v t="leo.20151118184246.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151118184246.3"><vh>@edit 40423201_cp_w1.md</vh></v>
+<v t="leo.20151118184246.4"><vh>@edit 40423201_cp_w2.md</vh></v>
+<v t="leo.20151118184246.5"><vh>@edit 40423201_cp_w3.md</vh></v>
+<v t="leo.20151118184246.6"><vh>@edit 40423201_cp_w4.md</vh></v>
+<v t="leo.20151118184246.7"><vh>@edit 40423201_cp_w5.md</vh></v>
+<v t="leo.20151118184246.8"><vh>@edit 40423201_cp_w7.md</vh></v>
+<v t="leo.20151118184246.9"><vh>@edit 40423201_cp_w6.md</vh></v>
+<v t="leo.20151118184246.10"><vh>@edit 40423201_cp_w8.md</vh></v>
+<v t="leo.20151118184246.11"><vh>@edit 40423201_cp_w9.md</vh></v>
+</v>
+</v>
 <v t="leo.20151118181541.1" a="E"><vh>@path content</vh>
 <v t="leo.20151118181541.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151118181541.3"><vh>@edit 40423201_cp_w1.md</vh></v>
@@ -2257,5 +2273,9 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;</t>
 <t tx="leo.20151118181541.1"></t>
 <t tx="leo.20151118181541.2"></t>
+<t tx="leo.20151118184158.1"></t>
+<t tx="leo.20151118184158.2"></t>
+<t tx="leo.20151118184246.1"></t>
+<t tx="leo.20151118184246.2"></t>
 </tnodes>
 </leo_file>
